@@ -10,3 +10,9 @@ Current function:
 ![image](https://github.com/RolandVyens/subd-and-mirror-quick-manage/assets/30930721/e8a7c5bb-9f1a-4c63-a5ec-16e61c6a6791)
 
 Should work on any versions of blender
+
+----------
+
+updated particle modifiers manage
+
+![image](https://github.com/RolandVyens/subd-and-mirror-quick-manage-blender/assets/30930721/c82a4405-bc78-418f-8af3-979d37549826)
