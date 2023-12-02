@@ -13,6 +13,8 @@ Should work on any versions of blender
 
 ----------
 
+2023.12.3
+
 updated particle modifiers manage
 
 ![image](https://github.com/RolandVyens/subd-and-mirror-quick-manage-blender/assets/30930721/c82a4405-bc78-418f-8af3-979d37549826)
